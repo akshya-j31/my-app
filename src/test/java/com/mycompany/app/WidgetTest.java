@@ -22,7 +22,7 @@ public class WidgetTest {
 	}
 
 	/**
- * 	 * Test enabling and disabling a {@link Widget}
+ * 	 * Test enabling and disabling a for a  {@link Widget}
  * 	 	 */
 	@Test
 	public void updateEnableState() {
