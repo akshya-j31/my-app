@@ -3,7 +3,7 @@ package com.mycompany.app;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
-import com.github.maven.example.Widget;
+import com.mycompany.app.Widget;
 
 import org.junit.Test;
 
