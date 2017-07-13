@@ -24,7 +24,7 @@
     <configuration>
      <archive>
       <manifest>
-       <mainClass>com.maventest.App</mainClass>
+       <mainClass>com.mycompany.app.Widget</mainClass>
       </manifest>
      </archive>
     </configuration>
