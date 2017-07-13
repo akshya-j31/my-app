@@ -33,4 +33,10 @@ public class Widget {
 		this.enabled = enabled;
 		return this;
 	}
+
+       public static void main( String[] args )
+    	{
+        System.out.println( "Hello World!" );
+    	}
+
 }}
